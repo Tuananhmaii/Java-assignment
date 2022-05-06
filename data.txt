@@ -1,0 +1,11 @@
+1;Letting Go;Fiction;Philip Roth;7
+2;Fear of Flying;Adventure;Erica Jong;8
+3;Little Women;Action;Louisa May Alcott;4
+4;Ulysses;Fiction;James Joyce;2
+5;The Great Gatsby;Action;F. Scott Fitzgerald;1
+6;Hamlet;Adventure;William Shakespeare;3
+7;The Odyssey;Horror;Homer;1
+8;Crime and Punishment;Crime;Fyodor Dostoyevsky;4
+9;The Catcher in the Rye;Horror;J. D. Salinger;2
+10;Alice's Adventures in Wonderland;Fiction;Lewis Carroll;5
+11;qwegwq;gwqgq;wqq;1

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/18" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.demo1.InstructionController">
+   <children>
+      <TextArea prefHeight="400.0" prefWidth="600.0" style="-fx-background-color: #ECECE7;" text="                                          Welcome to instruction of Coastal's library application&#10;&#10;1. All data of the library is appear on the screen. You can see all the information and choose which&#10;action you can do with them&#10;&#10;2. To add a new book to the library, you have to fill all the fields on the right side of the application&#10;and then press the add button. The book will be added into the table&#10;&#10;3. To update a book, you can double click on the information of the book. If you want to adjust &#10;any fields, you double click right on that fields and then enter the new information&#10;&#10;4. To remove a book, you need to select the book you want to delete and then click the delete &#10;button. You are able to select and delete multiple books at once.&#10;&#10;5. You can search for a book by its name, genre or author by the search bar on the top of the app">
+         <font>
+            <Font name="System Italic" size="13.0" />
+         </font>
+      </TextArea>
+      <Button fx:id="backToMenuButton" layoutX="397.0" layoutY="324.0" mnemonicParsing="false" onAction="#backToMenu" prefHeight="26.0" prefWidth="134.0" text="Back to menu" textAlignment="CENTER" />
+   </children>
+</AnchorPane>
